@@ -20,7 +20,7 @@ const Tours = () => {
       id: 'song-kul',
       title: "Horseback Trek to Song-Kul",
       description: "Ride through alpine meadows to the pristine Song-Kul lake, one of Kyrgyzstan's most beautiful high-altitude destinations.",
-      image: "https://images.pexels.com/photos/1831234/pexels-photo-1831234.jpeg?auto=compress&cs=tinysrgb&w=600",
+      image: "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSrgaOuiS-drasFckz7H3lfUtjf-vx5XzWKiw7sbA0v_eRq8goKhbGCmgRHVsZuAgBehBYN5GmpAYfczIQsL7crtkqFALNcCMdisiDffA",
       duration: "5 days",
       groupSize: "2-6 people",
       rating: 4.8,

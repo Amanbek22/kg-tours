@@ -94,7 +94,7 @@ const TourDetail: React.FC<TourDetailProps> = ({ tourId }) => {
       title: "Horseback Trek to Song-Kul",
       subtitle: "Alpine Lake Adventure",
       description: "Embark on an unforgettable horseback journey to Song-Kul, one of Kyrgyzstan's most pristine high-altitude lakes. This adventure combines stunning landscapes with authentic nomadic experiences.",
-      image: "https://images.pexels.com/photos/1831234/pexels-photo-1831234.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      image: "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSrgaOuiS-drasFckz7H3lfUtjf-vx5XzWKiw7sbA0v_eRq8goKhbGCmgRHVsZuAgBehBYN5GmpAYfczIQsL7crtkqFALNcCMdisiDffA",
       gallery: [
         "https://images.pexels.com/photos/1831234/pexels-photo-1831234.jpeg?auto=compress&cs=tinysrgb&w=600",
         "https://images.pexels.com/photos/1183099/pexels-photo-1183099.jpeg?auto=compress&cs=tinysrgb&w=600",
