@@ -1,4 +1,3 @@
-import React from 'react';
 import { Heart, Users, Mountain } from 'lucide-react';
 
 const About = () => {
@@ -57,7 +56,7 @@ const About = () => {
 
           <div className="relative">
             <img 
-              src="https://images.pexels.com/photos/8129831/pexels-photo-8129831.jpeg?auto=compress&cs=tinysrgb&w=800"
+              src="https://dwc.kg/wp-content/uploads/2023/10/scale_1200-1.jpeg"
               alt="Local Kyrgyz guide with horses"
               className="rounded-lg shadow-xl"
             />

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Menu, X } from 'lucide-react';
 import { useNavigate, useLocation } from 'react-router-dom';
 
@@ -31,7 +31,7 @@ const Header = () => {
               onClick={goHome}
               className="text-2xl font-bold text-gray-900 hover:text-blue-600 transition-colors"
             >
-              Nomad Soul Tours
+              Kyrgyzstan
             </button>
           </div>
           
